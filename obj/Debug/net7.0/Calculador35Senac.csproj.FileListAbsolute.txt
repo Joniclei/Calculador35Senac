@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/bin/Debug/net7.0/Calculador35Senac
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/bin/Debug/net7.0/Calculador35Senac.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/bin/Debug/net7.0/Calculador35Senac.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/bin/Debug/net7.0/Calculador35Senac.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/bin/Debug/net7.0/Calculador35Senac.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/Calculador35Senac.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/Calculador35Senac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/Calculador35Senac.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/Calculador35Senac.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/Calculador35Senac.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/Calculador35Senac.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/refint/Calculador35Senac.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/Calculador35Senac.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/Calculador35Senac.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Calculador35Senac/obj/Debug/net7.0/ref/Calculador35Senac.dll
