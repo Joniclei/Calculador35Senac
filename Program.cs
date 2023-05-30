@@ -7,7 +7,7 @@
       int x = 0;
       do
       {
-        Console.WriteLine("Digite a opcao :[1]Calcular ");
+        Console.WriteLine("Digite a opcao : \n[1]Calcular  \n[2]Zerar \n[3]Sair");
         string t = Console.ReadLine();
         x = Calculadora.ValidacaoMenu(t);
       } while (x != 3);

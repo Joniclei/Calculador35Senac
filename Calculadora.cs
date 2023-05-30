@@ -39,7 +39,7 @@ namespace Calculadora35
           if (ValorA != 0 && ValorB != 0)
           {
             Console.WriteLine($"Somando os numero: {ValorA} + {ValorB} = {ValorA + ValorB}");
-            Console.WriteLine($"Subitraindo os numero: {ValorA} - {ValorB} = {ValorA - ValorB}");
+            Console.WriteLine($"Subtraindo os numero: {ValorA} - {ValorB} = {ValorA - ValorB}");
             Console.WriteLine($"Multiplicando os numero: {ValorA} * {ValorB} = {ValorA * ValorB}");
             Console.WriteLine($"Dividindo os numero: {ValorA} / {ValorB} = {(double)ValorA / ValorB} ");
           }
@@ -47,7 +47,6 @@ namespace Calculadora35
           {
             Console.WriteLine("Digite um valor valido,diferente de 0");
           }
-
 
         }
         else if (x == 2)
@@ -60,7 +59,6 @@ namespace Calculadora35
 
         else if (x == 3)
         {
-
 
           x = 3;
         }
